@@ -19,7 +19,7 @@ const initialMessagesState = {
   general: [],
   lawmakers: [],
   judges: [],
-  lawyers: []
+  lawyers: [],
   professors: [],
   students: []
 };

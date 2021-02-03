@@ -11,7 +11,7 @@ const messages = {
     general: [],
     lawmakers: [],
     judges: [],
-    lawyers: []
+    lawyers: [],
     professors: [],
     students: []
 };
